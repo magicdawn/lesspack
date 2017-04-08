@@ -1,4 +1,6 @@
 # lesspack
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/magicdawn/lesspack.svg)](https://greenkeeper.io/)
 > lesspack is a build tool for less
 
 [![Build Status](https://img.shields.io/travis/magicdawn/lesspack.svg?style=flat-square)](https://travis-ci.org/magicdawn/lesspack)
